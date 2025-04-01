@@ -8,3 +8,9 @@ Key Features:
 
 MindHub simplifies development by consolidating commonly used peripherals into a single board, making it a valuable tool for both professionals and hobbyists working with embedded systems.
 The boards is tested and verified.
+## Images
+![3D Front](images/3D_UHUB.png)
+![3D Back](images/3D_UHUB_back.png)
+![Real](images/working_image.jpg)
+
+
